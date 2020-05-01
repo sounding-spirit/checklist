@@ -1,6 +1,8 @@
 # Checklist of Southern Sacred Music Imprints, 1850–1925
 
-This GitHub repository contains a working version of the checklist and its data dictionary. **For a citable version of this dataset, please visit the Sounding Spirit Dataverse at https://doi.org/10.15139/S3/VQT4D5.**
+This GitHub repository contains a working version of the checklist and its data dictionary.
+
+**For a citable version of this dataset, please visit the Sounding Spirit Dataverse at https://doi.org/10.15139/S3/VQT4D5.**
 
 ## Authors
 Erin Fulton and Jesse P. Karlsberg
